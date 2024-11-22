@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projet_Pizza/1.0.0": {
+        "runtime": {
+          "Projet_Pizza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_Pizza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

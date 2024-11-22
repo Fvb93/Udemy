@@ -1,0 +1,14 @@
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.AssemblyInfoInputs.cache
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.AssemblyInfo.cs
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\bin\Debug\net8.0\Projet_Pizza.exe
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\bin\Debug\net8.0\Projet_Pizza.deps.json
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\bin\Debug\net8.0\Projet_Pizza.runtimeconfig.json
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\bin\Debug\net8.0\Projet_Pizza.dll
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\bin\Debug\net8.0\Projet_Pizza.pdb
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.dll
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\refint\Projet_Pizza.dll
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.pdb
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\Projet_Pizza.genruntimeconfig.cache
+C:\Users\MonPC\Documents\Udemy\Projet_Pizza\obj\Debug\net8.0\ref\Projet_Pizza.dll
